@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScrollableListXML</string>
+    <string name="btn_wiki">Wiki</string>
+    <string name="btn_detail">Detail</string>
+    <string name="featured_title">Kucing Spesial</string>
+    <string name="all_cats_title">Semua Ras</string>
+</resources>

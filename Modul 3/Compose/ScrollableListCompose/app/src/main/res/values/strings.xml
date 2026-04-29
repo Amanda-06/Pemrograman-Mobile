@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScrollableListCompose</string>
+
+    <string name="kucing_spesial">Kucing Spesial</string>
+    <string name="semua_ras">Semua Ras</string>
+
+    <string name="btn_wiki">WIKI</string>
+    <string name="btn_detail">Detail</string>
+
+    <string name="desc_gambar_kucing">Gambar %1$s</string>
+    <string name="desc_gambar_full_kucing">Gambar Full %1$s</string>
+    <string name="label_asal_kucing">Asal: %1$s</string>
+</resources>
