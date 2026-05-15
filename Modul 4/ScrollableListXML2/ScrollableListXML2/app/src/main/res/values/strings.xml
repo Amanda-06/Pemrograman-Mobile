@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScrollableListXML</string>
+    <string name="asal">Asal: %1$s</string>
+    <string name="wiki">WIKI</string>
+    <string name="detail">Detail</string>
+    <string name="spesial_horizontal">Kucing Spesial</string>
+    <string name="semua_kucing_vertical">Semua Ras</string>
+</resources>
